@@ -1,0 +1,11 @@
+enter x
+enter y
+enter z
+if x<y
+else if X<z
+print x
+else if y<z
+printZ
+else
+print z
+print y

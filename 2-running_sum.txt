@@ -1,0 +1,19 @@
+enter num1
+enter num2
+enter num3
+if num1 !=-num1
+sum=num1
+else
+
+
+	if num2 !=-num2
+	sum=num1+ num2
+	else
+	sum=num1
+
+	if num3 !=-num3
+	sum=num1+num2+num3
+	else
+	sum=num1+num2
+sum=0
+
